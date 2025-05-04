@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TechDirection_Final",
+			"Path": "..\\Source\\TechDirection_Final.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TechDirection_FinalEditor",
+			"Path": "..\\Source\\TechDirection_FinalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

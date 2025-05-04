@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CustomTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomTool\CustomTool.cpp.obj"
+"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomTool\PerModuleInline.gen.cpp.obj"
+"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomTool\Default.rc2.res"
+/OUT:"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomTool\UnrealEditor-CustomTool.lib"

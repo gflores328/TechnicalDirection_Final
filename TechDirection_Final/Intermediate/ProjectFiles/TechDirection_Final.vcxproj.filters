@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TechDirection_Final.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TechDirection_Final.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TechDirection_FinalEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TechDirection_Final">
+      <UniqueIdentifier>{3DCB0E13-3535-30FE-A1CE-52E3144E57D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TechDirection_Final\TechDirection_Final.Build.cs">
+      <Filter>Source\TechDirection_Final</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TechDirection_Final\TechDirection_Final.cpp">
+      <Filter>Source\TechDirection_Final</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TechDirection_Final\TechDirection_Final.h">
+      <Filter>Source\TechDirection_Final</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
