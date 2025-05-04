@@ -2,7 +2,6 @@
 	"BuildId": "37670630",
 	"Modules": 
 	{
-		"CustomTool": "UnrealEditor-CustomTool.dll",
 		"TechDirection_Final": "UnrealEditor-TechDirection_Final.dll"
 	}
 }

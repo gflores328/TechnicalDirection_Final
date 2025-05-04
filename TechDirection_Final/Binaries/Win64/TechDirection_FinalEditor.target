@@ -4874,14 +4874,6 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-CustomTool.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-CustomTool.pdb",
-			"Type": "SymbolFile"
-		},
-		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-TechDirection_Final.dll",
 			"Type": "DynamicLibrary"
 		},
