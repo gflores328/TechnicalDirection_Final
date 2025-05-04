@@ -1,12 +1,12 @@
-"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Source\TechDirection_Final\TechDirection_Final.cpp"
-/FI"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\Definitions.TechDirection_Final.h"
-/Yu"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.obj"
-/experimental:log "C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.sarif"
-/sourceDependencies "C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.dep.json"
-@"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.Shared.rsp"
+"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Source\TechDirection_Final\TechDirection_Final.cpp"
+/FI"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\Definitions.TechDirection_Final.h"
+/Yu"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.obj"
+/experimental:log "C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.sarif"
+/sourceDependencies "C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.dep.json"
+@"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

@@ -1,5 +1,5 @@
 /I "."
-/I "C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Source"
+/I "C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

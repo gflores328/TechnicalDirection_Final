@@ -36,10 +36,10 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.obj"
-"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\PerModuleInline.gen.cpp.obj"
-"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\Default.rc2.res"
+"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\TechDirection_FinalEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\TechDirection_Final.cpp.obj"
+"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\PerModuleInline.gen.cpp.obj"
+"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Intermediate\Build\Win64\x64\UnrealEditor\Development\TechDirection_Final\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -70,6 +70,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Binaries\Win64\UnrealEditor-TechDirection_Final.dll"
-/PDB:"C:\Users\Gabe\Documents\Unreal Projects\TechDirection_Final\Binaries\Win64\UnrealEditor-TechDirection_Final.pdb"
+/OUT:"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Binaries\Win64\UnrealEditor-TechDirection_Final.dll"
+/PDB:"C:\Users\Gabe\Documents\GitHub\TechnicalDirection_Final\TechDirection_Final\Binaries\Win64\UnrealEditor-TechDirection_Final.pdb"
 /ignore:4078

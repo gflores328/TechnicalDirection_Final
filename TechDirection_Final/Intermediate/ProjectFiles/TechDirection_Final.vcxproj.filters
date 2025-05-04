@@ -11,6 +11,7 @@
     <None Include="..\..\Source\TechDirection_FinalEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -26,6 +27,30 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Source\CustomTool">
+      <UniqueIdentifier>{162F4E8D-3A69-3B57-9013-B72F07DA02A9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CustomTool\CustomTool.Build.cs">
+      <Filter>Source\CustomTool</Filter>
+    </None>
+    <Filter Include="Source\CustomTool\Private">
+      <UniqueIdentifier>{B002BAC1-5604-3E03-A8C0-00F6FFAEA77F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CustomTool\Private\CustomTool.cpp">
+      <Filter>Source\CustomTool\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CustomTool\Private\StaticMeshOrganizer.cpp">
+      <Filter>Source\CustomTool\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CustomTool\Private\StaticMeshOrganizer.h">
+      <Filter>Source\CustomTool\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CustomTool\Public">
+      <UniqueIdentifier>{D11781BD-9E88-3F86-825F-AD275EAA08BC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CustomTool\Public\CustomTool.h">
+      <Filter>Source\CustomTool\Public</Filter>
+    </ClCompile>
     <Filter Include="Source\TechDirection_Final">
       <UniqueIdentifier>{3DCB0E13-3535-30FE-A1CE-52E3144E57D1}</UniqueIdentifier>
     </Filter>

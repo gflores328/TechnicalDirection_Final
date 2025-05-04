@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gabe\\documents\\github\\technicaldirection_final\\techdirection_final\\intermediate\\build\\win64\\unrealeditor\\inc\\customtool\\uht\\customtool.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gabe\\documents\\github\\technicaldirection_final\\techdirection_final\\intermediate\\build\\win64\\x64\\techdirection_finaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\gabe\\documents\\github\\technicaldirection_final\\techdirection_final\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\customtool\\definitions.customtool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

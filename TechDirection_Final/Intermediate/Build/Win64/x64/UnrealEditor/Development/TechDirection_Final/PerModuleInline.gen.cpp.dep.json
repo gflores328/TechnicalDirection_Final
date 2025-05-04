@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\gabe\\documents\\unreal projects\\techdirection_final\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\techdirection_final\\permoduleinline.gen.cpp",
+        "Source": "c:\\users\\gabe\\documents\\github\\technicaldirection_final\\techdirection_final\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\techdirection_final\\permoduleinline.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\gabe\\documents\\unreal projects\\techdirection_final\\intermediate\\build\\win64\\x64\\techdirection_finaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\gabe\\documents\\github\\technicaldirection_final\\techdirection_final\\intermediate\\build\\win64\\x64\\techdirection_finaleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\gabe\\documents\\unreal projects\\techdirection_final\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\techdirection_final\\definitions.techdirection_final.h",
+            "c:\\users\\gabe\\documents\\github\\technicaldirection_final\\techdirection_final\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\techdirection_final\\definitions.techdirection_final.h",
             "c:\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
         ],
         "ImportedModules": [],
