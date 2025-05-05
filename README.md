@@ -15,7 +15,7 @@ A custom module made to only run in the UE editor that adds a Custom Tool tab to
 
 ## Static Mesh Organizer Window
 
-<img src = "./readmeAssets/MeshSelectorWidget.PNG" width = 400>
+<img src = "./readmeAssets/MeshSelectorWidget.png" width = 400>
 
 [StaticMeshSelector]("./TechDirectionFinal/Source/CustomTools/Private/StaticMeshOrganizer.cpp")
 An Editor Utility Widget that lets the user select a static mesh and put the\
@@ -26,3 +26,5 @@ StaticMeshActors in the level with the selected static mesh into a folder
 
 * **Organize Button:** Once clicked, it will organize the StaticMeshActors of the selected static mesh\
   into a folder that's named after the static mesh
+
+  <img src = "./readmeAssets/Outliner.png" width = 400>
